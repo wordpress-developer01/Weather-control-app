@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-control-app/static/css/main.403aef32.css",
+    "main.js": "/Weather-control-app/static/js/main.e81415ce.js",
+    "static/js/453.6e30a6ed.chunk.js": "/Weather-control-app/static/js/453.6e30a6ed.chunk.js",
+    "index.html": "/Weather-control-app/index.html",
+    "main.403aef32.css.map": "/Weather-control-app/static/css/main.403aef32.css.map",
+    "main.e81415ce.js.map": "/Weather-control-app/static/js/main.e81415ce.js.map",
+    "453.6e30a6ed.chunk.js.map": "/Weather-control-app/static/js/453.6e30a6ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.403aef32.css",
+    "static/js/main.e81415ce.js"
+  ]
+}
